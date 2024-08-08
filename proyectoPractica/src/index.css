@@ -1,0 +1,7 @@
+.Form-Container{
+    border: 1px solid black;
+    height: 100vh;
+    position: absolute;
+    width: 100%;
+    background-color: rgba(0, 0, 0, 0.5);
+}
